@@ -230,6 +230,7 @@ const wallpaper = localStorage.getItem('wallpaper') != null;
 	}
 
 	> .sidebar {
+		margin-top: 15px;
 		border-right: solid 0.5px var(--divider);
 	}
 
